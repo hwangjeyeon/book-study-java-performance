@@ -29,7 +29,7 @@
 
 ```java
 // 👎 Bad
-sb.append(str1 + str2);`
+sb.append(str1 + str2);
 
 // 👍 Good
 sb.append(str1).append(str2);
